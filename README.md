@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<br>
-
-## 💫 About Me:
 My name is James, and I'm a full-stack developer passionate about creating impactful, user-centered applications. After years in IT support, I dove into software development and now channel my problem-solving skills into projects like [BlockPledge](https://github.com/jtakaendisa/blockpledge-decentralized-crowdfunding). I thrive on transforming creative ideas into polished, functional solutions and excel in collaborative, innovative environments.<br>When I'm not coding, you can find me exploring emerging tech, lifting weights, or dabbling in AI-generated art.
 
 <br>
